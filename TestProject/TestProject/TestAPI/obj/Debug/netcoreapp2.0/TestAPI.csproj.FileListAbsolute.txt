@@ -1,0 +1,11 @@
+D:\PROJECTS\TestProject\TestProject\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.deps.json
+D:\PROJECTS\TestProject\TestProject\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.runtimeconfig.json
+D:\PROJECTS\TestProject\TestProject\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.runtimeconfig.dev.json
+D:\PROJECTS\TestProject\TestProject\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.dll
+D:\PROJECTS\TestProject\TestProject\TestAPI\bin\Debug\netcoreapp2.0\TestAPI.pdb
+D:\PROJECTS\TestProject\TestProject\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.csproj.AssemblyReference.cache
+D:\PROJECTS\TestProject\TestProject\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.csproj.CoreCompileInputs.cache
+D:\PROJECTS\TestProject\TestProject\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.AssemblyInfoInputs.cache
+D:\PROJECTS\TestProject\TestProject\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.AssemblyInfo.cs
+D:\PROJECTS\TestProject\TestProject\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.dll
+D:\PROJECTS\TestProject\TestProject\TestAPI\obj\Debug\netcoreapp2.0\TestAPI.pdb
