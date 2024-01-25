@@ -1,7 +1,7 @@
 # TestProject
 API Project using ASP.Net Core Web API with Entity Framework
 
-1.	Open VisualStudio 2019 create a TestSolution and in that create a Test API Project.
+1.	Open VisualStudio 2019 create a TestProject Solution and in that create a TestAPI Project.
 
 2.	Right Click the Solution and select Manage NuGet packages and add the reference for 
 
